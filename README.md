@@ -10,3 +10,4 @@ This module is used for rearranging names.
  * Calling 'rearrange_name("Voltaire")' will return '"Voltaire"'
 
 DOING MORE MODIFICATIONS
+VERSION2

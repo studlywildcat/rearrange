@@ -1,3 +1,3 @@
 # rearrange
 
-This is modul eto use readme
+This is module is used for rearranging name.
